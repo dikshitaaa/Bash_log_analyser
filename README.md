@@ -6,10 +6,11 @@ Security Log Analyzer
 Total Failed Logins: 4
 
 Suspicious IPs:
-      2 192.168.1.10
-      1 192.168.1.15
-      1 192.168.1.11
-                                  
+ 2 192.168.1.10
+ 1 192.168.1.15
+ 1 192.168.1.11
+                         
+         
 
 # Bash Log Analyzer
 
