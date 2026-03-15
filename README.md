@@ -1,3 +1,17 @@
+
+
+
+
+## Example Output
+
+      Security Log Analyzer
+Total Failed Logins: 4
+
+Suspicious IPs:
+      2 192.168.1.10
+      1 192.168.1.15
+      1 192.168.1.11
+
 # Bash Log Analyzer
 
 A **Bash-based security log analyzer** that scans a log file for failed login attempts and identifies suspicious IP addresses.  
