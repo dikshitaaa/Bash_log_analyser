@@ -1,7 +1,4 @@
 
-
-
-
 ## Example Output
 
       Security Log Analyzer
